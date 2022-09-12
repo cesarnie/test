@@ -10,3 +10,4 @@
 
 test1
 test.2
+test.file1
